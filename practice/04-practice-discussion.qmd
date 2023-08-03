@@ -1,0 +1,16 @@
+## Snippet
+
+The following snippet is from _Psychiatric Comorbidity In Opioid Use Treatment Outcomes_ (Linda Tang, winner at 2021 Fall USRESP).
+
+### Discussion
+
+#### Conclusions
+
+In this study, we analyzed the association between psychiatric comorbidities and opioid treatment outcome using a national representative sample from the treatment episodes dataset (TEDS-D) in 2019. Fine-Gray models were constructed with treatment completion and dropout as the events of interest. We concluded that having psychiatric comorbidity is associated with higher incidence of treatment dropout and lower incidence of treatment completion. Our findings supported our initial hypothesis and aligned with a study suggesting psychiatric comorbidity is associated with higher odds and earlier time of treatment attrition between year 2009-2011 (Krawczyk, 2017). Our results highlight the need to better integrate mental health services with substance abuse treatment; more professional psychiatrists should be involved in designing the treatment programs for substance abuse clients and other providers should also be better equipped with mental health knowledge (Volkow, 2019).
+
+## Questions
+
+- Can you identify the strong elements in this snippets (according to USRESP assessment criteria)?
+
+- Are there any weaker elements in this snippets (according to USRESP assessment criteria)?
+

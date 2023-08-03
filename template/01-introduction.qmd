@@ -1,0 +1,9 @@
+# Introduction
+
+<!--# What the research is about: .... Why this is interesting: (1) ... (2) ... -->
+
+<!--# What other research found on this topic: ... -->
+
+Previous experimental research did not find evidence for an effect of the labels 'organic' or 'local' on the chance that students would order a vegetable dish at a university cafeteria [@migliavada2022].
+
+<!--# What our contribution is: (1) ... (2) ... -->

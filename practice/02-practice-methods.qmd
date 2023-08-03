@@ -1,0 +1,29 @@
+## Snippet
+
+The following snippet is from _Psychiatric Comorbidity In Opioid Use Treatment Outcomes_ (Linda Tang, winner at 2021 Fall USRESP).
+
+#### 1.2 Data Description
+
+Treatment Episode Data Set (TEDS) is a publicly available dataset from the Substance Abuse and Mental Health Services Administration (SAMHSA) under the Department of Health and Human Services (HHS). The dataset is collected annually by states for the purposes of monitoring their substance use treatment systems. There are two separate systems within TEDS that each records the incidences of treatment admission and discharge in a given year (SAMHSA, 2021).
+
+n this study, we will use the treatment episode discharge dataset from the year 2019 to conduct a cross-sectional analysis. From there, we only included the records where the client has been diagnosed with opioid dependence/abuse and opioid was their primary substance at the time of admission. There are 324859 clients who met the inclusion criteria. Each observation in the dataset represents a client’s treatment episode in state-licensed or certified substance use treatment centers. However, due to computational restraints, we performed the subsequent analysis on a random 10% sample of this population, resulting in a sample size was 32485. Detailed tables recording demographic characteristics of the initial cohort and the random sample are included in Appendix section B. It seems like the random sample is representative of the entire cohort.
+
+The treatment episode dataset includes more than 70 variables and we will describe and explore the variables that are most relevant to the scope of this analysis. The variable treatment status records the outcome of the treatment episode, which I created using the reason for discharge. A client could either complete a treatment episode, drop out of the treatment or be transferred to another facility. From Figure 1 Panel A, it seems like most treatment episodes for opioid use were transferred, followed by dropped. Since completed treatment comprises the smallest proportion of all outcomes, there is a need to improve the efficacy of care delivery and investigate the contributing factors behind dropout. In Panel B, it seems like the presence of psychiatric comorbidity is correlated with higher likelihood of being transferred but lower likelihood of treatment completion.
+
+```{r}
+#| echo: false
+#| out-width: 80%
+#| fig-align: center
+knitr::include_graphics("figures/data.png")
+```
+
+The two events of interest are treatment completion and treatment dropout. However, since clients transferred to another facility are likely still undergoing treatment of another form, this indicates the presence of censoring which need to be accounted for through survival analysis. Furthermore, if a client completes treatment, then they are no longer at risk for dropout and vice versa. This indicates treatment completion and treatment dropout are competing risks; they are both prevalent in the study cohort as reflected in Figure 1 Panel A.
+
+## Questions (5 min)
+
+**What part(s) of the methods does this snippet cover?**
+
+**What do you understand well by reading the snippet?**
+
+**What is unclear from the snippet?**
+

@@ -1,0 +1,26 @@
+
+## Snippet
+
+The following snippet is from _Psychiatric Comorbidity In Opioid Use Treatment Outcomes_ (Linda Tang, winner at 2021 Fall USRESP).
+
+#### 1.1 Background Information
+
+The Opioid Crisis in the United States was declared a national public health emergency in October 2017 and poses challenges to the US economy and its social welfare and criminal justice systems (HHS, 2017). In 2018, according to the US Center of Disease Control and Prevention (CDC), there were 67,367 recorded drug overdose deaths; of those deaths, 46,802 involved an opioid. There are about 130 American deaths per day from opioid overdose and opioid overdoses cost the US economy around $78 billion in 2018 (Scholl et al., 2019; National Institute on Drug Abuse, 2020). Factors that contribute to the opioid crisis include the increasing use of opioids in pain management by health care providers and the aggressive marketing of opioid analgesics as not addictive by pharmaceutical companies in the late 1990s (Hahn et al., 2011). Federal and state-level policies and guidelines have been implemented in an attempt to prevent or reduce prescription opioid misuse, abuse, diversion, and overdose (Hahn et al., 2011). To help patients overcome opioid addiction, treatment centers across the United States oer services including medical detoxification, medication-assisted treat- ment, mental illness treatment, counseling and post-rehabilitation planning. Typically, successful completion of treatment programs is associated with longer term abstinence, fewer relapses and other positive life outcomes (Brorson et al.,2013).
+
+Many individuals who develop substance use disorders (SUD) are also diagnosed with mental dis- orders, and vice versa. Anxiety, depression and bipolar disorder and other personality disorders are commonly associated with substance abuse (National Institute on Drug Abuse, 2021). However, most studies surrounding opioid therapies were centered around evaluating the efficacy of medica- tions in aiding treatment outcomes, and only few recent studies highlighted the role of psycho-social components (Bardy et al., 2016). This highlights a need to further explore the relationship between psychiatric comorbidity and substance abuse treatment outcomes. In addition, the effectiveness of a treatment program can vary greatly across patients depending geographic and demographic factors. For instance, African American and Hispanic population has been shown to have lower health care utilization and treatment completion rate compared to white non-Hispanic population (Stahler et al., 2018). In particular, it would be interesting to explore treatment outcomes for patients at the intersection of multiple identities since they may face additional barriers in accessing and completing treatment.
+
+In this study, we aim to first analyze whether having psychiatric comorbidity is associated with greater likelihood of treatment dropout or completion. Secondly, we will investigate whether this relationship depends on the racial category of the client. We believe addressing these questions will help reveal the disparities that may exist across clients in terms of treatment outcomes and offer insights to improve equity in substance abuse treatment programs.
+
+## Question
+
+#### How do you think the snippet did, with reference to the USRESP judging criteria, and what could be improved? (5 min)
+
+Here is a reminder of the USRESP judging criteria:
+
+-   Does the background and significance have a **logical organization**? Does it move from the **general to the specific**?
+
+-   Has **sufficient background** been provided **to understand** the paper? How does this work **relate to other work** in the scientific literature?
+
+-   Has a reasonable explanation been given for why the research was done? **Why is the work important?** Why is it relevant?
+
+-   Does this section end with **statements about the hypothesis/goals** of the paper?
